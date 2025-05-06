@@ -1,7 +1,7 @@
 
 # Tom Bond; tom.bond@bristol.ac.uk
 # 6th May 2025
-# Code to accompany:
+# Code to accompany: Bond TA, Bhatta L, Yang Q, Moen G-H, Wang G, Beaumont R, et al. Parental body mass index and offspring cardiovascular risk factors in adulthood: an intergenerational Mendelian randomization study. medrXiv. 2025.
 
 # 1: setup ####
 
