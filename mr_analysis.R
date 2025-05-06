@@ -30,7 +30,7 @@ format_res <- function(res){
 # genotype; this was necessary to avoid collider bias
 
 d <- read_xlsx(paste0(path, 'parental_bmi_mr_SUPPLEMENTARY_TABLES.xlsx'),
-               sheet = 'Supplementary_table_S3', col_names = TRUE) %>%
+               sheet = 'Supplementary_Table_3', col_names = TRUE) %>%
   as.data.frame()
 nrow(d) # 45116
 
