@@ -9,8 +9,7 @@ library(TwoSampleMR)
 library(readxl)
 library(dplyr)
 rm(list = ls())
-#path <- '/path/to/input/data/'
-path <- 'C:/Users/tb17613/OneDrive - University of Bristol/work/proj/maternal_paternal_bmi_mr/manuscript/'
+path <- '/path/to/input/data/'
 
 # function to make clearer outcomes names etc. for MR results
 format_res <- function(res){
