@@ -1,4 +1,4 @@
-This repository contains code enabling repetition of the MR analyses desribed in Bond TA, Bhatta L, Yang Q, Moen G-H, Wang G, Beaumont R, et al. Parental body mass index and offspring cardiovascular risk factors in adulthood: an intergenerational Mendelian randomization study. medrXiv. 2025.
+This repository contains code enabling repetition of the MR analyses desribed in 1.	Bond TA, Bhatta L, Yang Q, Moen G-H, Wang G, Beamont RN, et al. Parental body mass index and offspring cardiovascular risk factors in adulthood: an intergenerational Mendelian randomization study. medRxiv. 2025:2025.05.06.25327111.
 
 The R script "mr_analysis.R" reproduces the main MR analyses, via data provided in "parental_bmi_mr_SUPPLEMENTARY_TABLES.xlsx" available as supplementary material on medrXiv.
 
